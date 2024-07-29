@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    border: 2px solid ;
+    padding: 20px;
+    margin: 20px;
+    width: fit-content;
+    border-radius: 20px;
+    background-color: bisque;
+}
+textarea{
+    border: 2px solid ;
+    border-radius: 20px;
+    padding: 10px;
+}
